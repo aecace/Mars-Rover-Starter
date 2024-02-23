@@ -30,5 +30,5 @@ class Rover {
       return messageObject;
    }
 }
-
+ 
 module.exports = Rover;
